@@ -122,7 +122,7 @@ The script can be copied using the "Raw" button to be placed in a local file or 
 
 OfficeConvert
 
-Place xls and doc files to be converted to xlsx and docx in the 'C:\Temp\OfficeConvert' folder, then run:
+Place xls and doc files to be converted to xlsx and docx in the `C:\Temp\OfficeConvert` folder, then run:
 ```sh
 OfficeConvert.bat
 ```
